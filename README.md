@@ -33,6 +33,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=championsaad786-dev&show_icons=true&theme=radium" alt="championsaad786-dev stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=championsaad786-dev&theme=radical" alt="championsaad786-dev stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=championsaad786-dev&theme=radium" alt="championsaad786-dev streak" />
 </p>
