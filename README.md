@@ -1,41 +1,101 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">Aspiring Developer | Passionate about Automation & Bots</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Saad's%20Terminal&fontSize=70&fontAlignY=35&fontColor=000000&desc=Cybersecurity%20|%20OSINT%20|%20Automation&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
+  <h3><code>sys.stdout.write("Hello, World! I am Saad. 🚀")</code></h3>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Aspiring+Developer+🚀;Cybersecurity+Enthusiast+🛡️;OSINT+Researcher+🕵️;Python+Automator+🐍)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 👾 About Me
+
+```python
+class Saad:
+    def __init__(self):
+        self.name = "Saad"
+        self.location = "India 🇮🇳"
+        self.passions = ["Automation", "OSINT", "Cybersecurity Tools", "Bots"]
+        self.current_focus = "Building AI-powered security frameworks"
+    
+    def get_status(self):
+        return "Always Learning, Always Coding 💻"
+```
+
+---
+
+### 🛡️ Arsenal (My Open Source Projects)
+
+<details>
+<summary><b>1. SaadOSINT</b> 🕵️ (Click to expand)</summary>
+<br/>
+An advanced, AI-Powered OSINT framework for ethical intelligence gathering.
+
+- **Username Hunter:** Checks usernames across 130+ platforms concurrently.
+- **Email & IP Intel:** Geolocation, VPN/Tor detection, Shodan, and breaches.
+- **AI Correlator:** Generates comprehensive footprint reports.
+
+[![Repo](https://img.shields.io/badge/GitHub-SaadOSINT-181717?logo=github&style=for-the-badge)](https://github.com/championsaad786-dev/SaadOSINT)
+</details>
+
+<details>
+<summary><b>2. CyberSaad-AI</b> 🔒 (Click to expand)</summary>
+<br/>
+AI-powered security reconnaissance toolkit built for penetration testing.
+
+- Multi-source Subdomain Enumeration.
+- Intelligent Nmap Port Scanning with vulnerability checks.
+- Automated HTML/Markdown report generation.
+
+[![Repo](https://img.shields.io/badge/GitHub-CyberSaad--AI-181717?logo=github&style=for-the-badge)](https://github.com/championsaad786-dev/CyberSaad-AI)
+</details>
+
+<details>
+<summary><b>3. SaadShield</b> 🚨 (Click to expand)</summary>
+<br/>
+Live Terminal Dashboard for real-time security monitoring.
+
+- Detects ARP spoofing and network anomalies.
+- Flags suspicious listening ports and processes.
+- Beautiful `rich` terminal UI for real-time threat intelligence.
+
+[![Repo](https://img.shields.io/badge/GitHub-SaadShield-181717?logo=github&style=for-the-badge)](https://github.com/championsaad786-dev/SaadShield)
+</details>
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=championsaad786-dev&label=Profile%20views&color=0e75b6&style=flat" alt="championsaad786-dev" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,bash,linux,github,kali,docker,git,vscode&theme=dark" />
 </p>
 
-- 🔭 I’m currently working on **learning Web Development and Automation**
-- 🌱 I’m currently learning **JavaScript, Python, and exploring AI tools**
-- 💬 Ask me about **my automation bots and coding journey**
-- 📫 How to reach me: **GitHub Issues or Discussions**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/saad-khan-336b2642a">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_saad___.04">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://t.me/Saad73212">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
-  </a>
-  <a href="https://x.com/saadkhan73212">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X (Twitter)" height="30" width="40" />
-  </a>
-</p>
+### 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=championsaad786-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Saad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=championsaad786-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Saad's Streak" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=championsaad786-dev&theme=radical" alt="championsaad786-dev stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=championsaad786-dev&theme=radium" alt="championsaad786-dev streak" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=championsaad786-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Hack the planet... ethically."</i> 💻<br/>
+  <img src="https://komarev.com/ghpvc/?username=championsaad786-dev&color=00ff00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
