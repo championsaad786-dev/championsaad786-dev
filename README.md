@@ -33,6 +33,18 @@ class Saad:
 ---
 
 ### 🛡️ Arsenal (My Open Source Projects)
+<details>
+<summary><b>0. SaadStrike</b> 💀 (Click to expand)</summary>
+<br/>
+Advanced Web Vulnerability Scanner & Exploit Toolkit.
+
+- **WAF Detector:** Bypasses and fingerprints Web Application Firewalls.
+- **Fuzzer:** Rapid SQLi, XSS, and LFI vulnerability scanning.
+- **Payload Gen:** Custom reverse shell generation on the fly.
+
+[![Repo](https://img.shields.io/badge/GitHub-SaadStrike-181717?logo=github&style=for-the-badge)](https://github.com/championsaad786-dev/SaadStrike)
+</details>
+
 
 <details>
 <summary><b>1. SaadOSINT</b> 🕵️ (Click to expand)</summary>
