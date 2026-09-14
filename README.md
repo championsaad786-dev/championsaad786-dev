@@ -33,6 +33,18 @@ class Saad:
 ---
 
 ### 🛡️ Arsenal (My Open Source Projects)
+<details open>
+<summary><b>🔥 SaadGravity (Flagship Autonomous Agent)</b> ⚡ (Click to expand)</summary>
+<br/>
+Open-Source Autonomous Terminal AI Coding Agent & System Orchestrator (Antigravity CLI Style).
+
+- **Full Autonomous Engine:** Self-directing ReAct loop executing bash, editing files, and self-debugging.
+- **Uncensored & Local LLM Ready:** Native support for Ollama, vLLM, LM Studio, and OpenRouter.
+- **Antigravity-Inspired Terminal TUI:** Real-time thoughts streaming and syntax-highlighted tool feedback.
+
+[![Repo](https://img.shields.io/badge/GitHub-SaadGravity-181717?logo=github&style=for-the-badge)](https://github.com/championsaad786-dev/SaadGravity)
+</details>
+
 <details>
 <summary><b>0. SaadStrike</b> 💀 (Click to expand)</summary>
 <br/>
