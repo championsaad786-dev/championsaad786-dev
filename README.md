@@ -14,6 +14,14 @@
 
 </div>
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saad-khan-336b2642a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_saad___.04"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://t.me/Saad73212"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
+  <a href="https://x.com/saadkhan73212"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X (Twitter)" height="30" width="40" /></a>
+</div>
+
 ---
 
 ### 👾 About Me
