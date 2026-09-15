@@ -115,14 +115,14 @@ Live Terminal Dashboard for real-time security monitoring.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=championsaad786-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Saad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=championsaad786-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Saad's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=championsaad786-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Saad's Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=championsaad786-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=championsaad786-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
